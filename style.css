@@ -19,7 +19,7 @@ h1 {
 }
 
 hr {
-  border-color: #f05f44;
+  border-color: #003893;
   border-width: 3px;
   max-width: 65px;
 }
@@ -35,13 +35,13 @@ hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44;
+  background-color: #003893;
+  border-color: #003893;
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #CE1126;
+  border-color: #CE1126;
   border-width: 4px;
 }
 
